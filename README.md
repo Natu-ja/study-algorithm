@@ -10,5 +10,6 @@ Pythonという言語を用いて勉強していこうと思います。
 - statistics
 - time
 
-## 2分探索法の勉強
+# アルゴリズム名
+## 2分探索法
 該当ページに行きたい方は[ここをクリック](https://github.com/nmurata-ja/study-algorithm/blob/main/binary%20search.ipynb)してください。
