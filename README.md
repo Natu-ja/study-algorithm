@@ -2,7 +2,7 @@
 Pythonという言語を用いて勉強していこうと思います。
 時間がある時に、少しづつアップロードしていきます。
 
-# 使用しているモジュール
+# 使用しているライブラリ・モジュール
 - [matplotlib](https://matplotlib.org/)
 - [NumPy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
