@@ -1,8 +1,8 @@
-# アルゴリズムの勉強
+# 説明
 Pythonという言語を用いて勉強していこうと思います。
 時間がある時に、少しづつアップロードしていきます。
 
-使用しているモジュール
+# 使用しているモジュール
 - [matplotlib](https://matplotlib.org/)
 - [NumPy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
